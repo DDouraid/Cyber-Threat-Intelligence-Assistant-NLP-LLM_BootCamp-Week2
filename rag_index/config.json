@@ -1,0 +1,6 @@
+{
+  "embedding_model": "sentence-transformers/paraphrase-MiniLM-L3-v2",
+  "top_k": 5,
+  "dim": 384,
+  "ntotal": 5533
+}

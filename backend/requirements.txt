@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+rank-bm25
+nltk
+requests
+openai
+pydantic
+python-multipart
